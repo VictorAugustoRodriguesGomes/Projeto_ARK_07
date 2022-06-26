@@ -2,9 +2,9 @@
 
 # Projeto ARK 07
 
-Os Projetos nomeado ARK são uma aplicação desenvolvidos em java na IDE NetBens. O objetivo é desenvolver um projeto partindo de listas de exercícios encontrados na Internet, seriam projetos mais simples.
+Os projetos nomeados ARK são uma aplicação desenvolvida em Java na IDE NetBeans. O objetivo é desenvolver um projeto partindo de listas de exercícios encontrados na Internet, seriam projetos mais simples.
 
-Ark 7 é um projeto que realiza operações matemáticas, através de uma calculadora virtual, com ela usuário poderá realizar as operações aritméticas fundamentais (adição, subtração, multiplicação e divisão). 
+Ark 7 é um projeto que realiza operações matemáticas, por uma calculadora virtual, com ela usuário poderá realizar as operações aritméticas fundamentais (adição, subtração, multiplicação e divisão).
 
 </br>
 
